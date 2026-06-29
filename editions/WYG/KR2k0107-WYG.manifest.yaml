@@ -1,0 +1,56 @@
+canonical_identifier: bkk:krp/KR2k0107/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2k0107/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 桂林風土記
+  date: '2015-08-24 22:45:47.801211'
+  source:
+    repository: kanripo
+    path: KR2k0107
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0107_000-WYG.yaml, hash: 'sha256:03910c748404147884f25ea8464ffb082672017c1b3648e78db327d31130a19b'}
+  - {seq: 1, filename: KR2k0107_001-WYG.yaml, hash: 'sha256:c4695406517ff574dcb626fef4e78726ee2b8f7f878fc81f2fe9eb73d06497d5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0107_000-WYG.markers.yaml, hash: 'sha256:d6e9240ec0413149cfc47883b83951f6256ff99f3ce155ca89de2fd1d8ed952b'}
+  - {seq: 1, role: markers, filename: assets/KR2k0107_001-WYG.markers.yaml, hash: 'sha256:58c0cf276b91739542eda3d2ceb1a1e217e5318ab850d72fecddb52b6eba963d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0107_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 480
+  label: 目録
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2k0107_WYG_000-4a
+    span:
+    - body
+    - 480
+    - 552
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2k0107_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 7342
+  label: 桂林風土記
+  type: section
+  level: 1
+hash: sha256:ef2343d5ddb91da097f25477c7e1610dd02af0dcd06d82b4663e17fce9ce0318
