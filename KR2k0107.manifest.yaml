@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2k0107_000.yaml, hash: 'sha256:3cb408d8fff1665a53abe0de77e079e88c1e266212ed6f4db182c4997ebe1f3e'}
   - {seq: 1, filename: KR2k0107_001.yaml, hash: 'sha256:80ccc69ebd3501600900ff5fafdaee7109df5bca3139616bc64d7ce0156dbcf7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0107_000.markers.yaml, hash: 'sha256:b1a22ad627581cb50069667774aaacc991d6365f31aee4d97fa6d4d76288a3ca'}
-  - {seq: 1, role: markers, filename: assets/KR2k0107_001.markers.yaml, hash: 'sha256:142e433c0f332fdf79e90e2fe82a0077f061a54b018051920c941306fc5256e4'}
+  - {seq: 0, role: markers, filename: assets/KR2k0107_000.markers.yaml, hash: 'sha256:0b038968abc31b3037f5db2403999bc04894c330d6ea8d24483dcb2dc8d65657'}
+  - {seq: 1, role: markers, filename: assets/KR2k0107_001.markers.yaml, hash: 'sha256:52e4d59c5d5bfca89bdae3d2670ddf36a3b81cb02c95c84f1a8ad487c86b727e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,7 @@ table_of_contents:
   label: 桂林風土記
   type: section
   level: 1
-hash: sha256:02e5ddfeabe07e183510eb209daf491d9593e194315bd1ddc03ff7b091c1fe20
+hash: sha256:78ca4ac7f55a7237c792f2d33236f894fecdb85a4512970cfca24b5362040206
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR2k0107_000-WYG.yaml, hash: 'sha256:03910c748404147884f25ea8464ffb082672017c1b3648e78db327d31130a19b'}
   - {seq: 1, filename: KR2k0107_001-WYG.yaml, hash: 'sha256:c4695406517ff574dcb626fef4e78726ee2b8f7f878fc81f2fe9eb73d06497d5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0107_000-WYG.markers.yaml, hash: 'sha256:d6e9240ec0413149cfc47883b83951f6256ff99f3ce155ca89de2fd1d8ed952b'}
-  - {seq: 1, role: markers, filename: assets/KR2k0107_001-WYG.markers.yaml, hash: 'sha256:58c0cf276b91739542eda3d2ceb1a1e217e5318ab850d72fecddb52b6eba963d'}
+  - {seq: 0, role: markers, filename: assets/KR2k0107_000-WYG.markers.yaml, hash: 'sha256:7e8610115dfd4232e8b9103215bd1d4710b69e9305eb88cdfd1ab85ef600aa24'}
+  - {seq: 1, role: markers, filename: assets/KR2k0107_001-WYG.markers.yaml, hash: 'sha256:7e082e59809f87692496884956aee669c97808985dff86aa6c9aee5ba1103cf0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -53,4 +53,4 @@ table_of_contents:
   label: 桂林風土記
   type: section
   level: 1
-hash: sha256:ef2343d5ddb91da097f25477c7e1610dd02af0dcd06d82b4663e17fce9ce0318
+hash: sha256:c1ea3a80fae31a53f5f6859111498f0d9187b9fc5a336f2a271d63ee8422f776
